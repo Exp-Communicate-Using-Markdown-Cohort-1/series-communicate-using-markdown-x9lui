@@ -6,3 +6,8 @@
 ls
 Desktop Documents Temp
 ```
+
+- [x] Wake up
+- [x] Eat
+- [ ] Sleep
+- [ ] Go shopping
